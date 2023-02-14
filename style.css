@@ -1,0 +1,14 @@
+.grid {
+    width: 200px;
+    height: 400px;
+    display: flex;        /* TODO*/
+    flex-wrap: wrap; /*flex-wrap属性用于设置容器内项目是否自动换行*/
+    background-color: yellow;
+}
+
+.grid div {
+    height: 20px;
+    width: 20px;
+    background-color: rebeccapurple;
+}
+
